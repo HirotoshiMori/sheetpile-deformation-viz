@@ -1,0 +1,19 @@
+# PLAXIS の出力データと図
+data/
+figures/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# 秘密情報
+.env
+.env.*
